@@ -1,0 +1,34 @@
+@font-face {
+    font-family: Lato;
+    src: url('/fonts/lato/Lato-Thin.ttf');
+}
+div {
+    font-family: Lato;
+}
+
+.nav, ul nav {
+	font-weight: bold;
+	color: black;
+}
+.user-data {
+	background: white;
+	font-family: "Segoe UI Light", Roboto;
+	width: 100%;
+	background-color: #fcfcfc;
+}
+.user-data img {
+	width: 200px;
+	height: 200px;
+	margin-bottom: 30px;
+}
+.user-data span, #it {
+	font-size: 20px;
+}
+#ref_numf, #ref_numf2 {
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+}
+#ref_numf2 {
+	width: 500px;
+}
